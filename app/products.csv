@@ -1,0 +1,71 @@
+id;name;description;price;image;category;badge_text;badge_type;is_new
+1;JBL Pill;Powerful Bluetooth® speaker.;199.99;/static/uploads/jbl-pill.jpeg;Speakers;;;FALSE
+2;JBL Pill 2;Portable Bluetooth® speaker with powerful, room-filling sound.;129.99;/static/uploads/jbl-pill-2.jpeg;Speakers;;;FALSE
+3;JBL Buds;Incredible sound packed in the smallest case we've ever made.;79.99;/static/uploads/jbl-buds.jpeg;Earphones;;;FALSE
+4;JBL Studio;Experience deep bass and immersive sound quality with active noise cancellation.;129.99;/static/uploads/jbl-studio.jpeg;Headphones;TOP SELLER;popular;FALSE
+5;JBL Ear 2;Compact design with powerful sound and water resistance, perfect for on-the-go.;79.99;/static/uploads/jbl-ear-2.jpeg;Earphones;BEST VALUE;value;FALSE
+6;JBL Portable;Portable Bluetooth speaker with 360-degree surround sound and extended battery life.;59.99;/static/uploads/jbl-portable.jpeg;Speakers;;;FALSE
+7;JBL Wireless;Over-ear studio headphones with ultra-soft padding and noise isolation for clear, detailed sound.;199.99;/static/uploads/jbl-wireless.jpeg;Headphones;NEW;new;FALSE
+8;JBL Ear 1;Compact Bluetooth earphones with hands-free controls and ergonomic fit.;49.99;/static/uploads/jbl-ear-1.jpeg;Earphones;;;FALSE
+9;JBL H1;Premium over-ear headphones designed for audiophiles, delivering studio-quality sound with deep bass and crystal-clear highs.;189.99;/static/uploads/headphone-one.jpeg;Headphones;;;TRUE
+10;JBL E1;Compact and stylish Bluetooth earphones offering rich sound and all-day comfort, perfect for workouts and daily commutes.;199.99;/static/uploads/earphones-one.jpeg;Earphones;;;TRUE
+11;JBL H2;High-performance headphones with adaptive noise cancellation, exceptional battery life, and an ergonomic design for extended listening sessions.;209.99;/static/uploads/headphone-two.jpeg;Headphones;;;TRUE
+12;JBL Boombox;Massive sound with thumping bass, designed for epic parties with a 24-hour battery life.;399.99;/static/uploads/featured-speaker-3.jpeg;Speakers;TOP SELLER;popular;FALSE
+13;JBL Go 3;Pocket-sized Bluetooth speaker with bold sound and an ultra-portable design.;39.99;/static/uploads/featured-speaker-17.jpeg;Speakers;BEST VALUE;value;FALSE
+14;JBL Flip 6;Powerful stereo sound with waterproof durability for adventures.;129.99;/static/uploads/featured-speaker-4.jpeg;Speakers;;;FALSE
+15;JBL PartyBox Mini;Compact party speaker with dazzling light shows and booming sound.;249.99;/static/uploads/featured-speaker-6.jpeg;Speakers;TOP SELLER;popular;FALSE
+16;JBL Charge 5;All-in-one Bluetooth speaker with a built-in power bank for on-the-go charging.;179.99;/static/uploads/featured-speaker-8.jpeg;Speakers;;;FALSE
+17;JBL SoundBox;Wireless speaker with 360-degree sound and premium craftsmanship.;219.99;/static/uploads/featured-speaker-14.jpeg;Speakers;;;FALSE
+18;JBL Rocker;Durable outdoor speaker with enhanced bass and weather resistance.;149.99;/static/uploads/featured-speaker.jpeg;Speakers;;;FALSE
+19;JBL Cube;Minimalist design meets powerful sound in this stylish wireless speaker.;89.99;/static/uploads/featured-speaker-7.jpeg;Speakers;;;FALSE
+20;JBL Wave;Compact Bluetooth speaker with smooth audio and water resistance.;59.99;/static/uploads/featured-speaker-14.jpeg;Speakers;;;FALSE
+21;JBL Sphere;Futuristic speaker with 360-degree surround sound and smart assistant integration.;269.99;/static/uploads/featured-speaker-14.jpeg;Speakers;NEW;new;TRUE
+22;JBL Comfort;Over-ear headphones with plush padding and immersive sound.;199.99;/static/uploads/featured-headphones-5.jpg;Headphones;;;FALSE
+23;JBL Active;Lightweight sports headphones with sweat resistance and secure fit.;79.99;/static/uploads/featured-headphones-10.jpeg;Headphones;BEST VALUE;value;FALSE
+24;JBL Quantum 300;Gaming headphones with 3D surround sound and a noise-canceling mic.;129.99;/static/uploads/featured-headphones-8.jpeg;Headphones;TOP SELLER;popular;FALSE
+25;JBL Studio Pro;Premium studio headphones designed for professional-grade mixing.;349.99;/static/uploads/featured-headphones-6.jpeg;Headphones;;;FALSE
+26;JBL Tune 750;Noise-canceling headphones with rich bass and a foldable design.;99.99;/static/uploads/featured-headphones-8.jpeg;Headphones;;;FALSE
+27;JBL Clarity;Wireless over-ear headphones with balanced sound and exceptional clarity.;149.99;/static/uploads/featured-headphones-2.jpeg;Headphones;NEW;new;TRUE
+28;JBL Essential;Affordable over-ear headphones with deep bass and sleek design.;59.99;/static/uploads/featured-headphones-3.jpeg;Headphones;;;FALSE
+29;JBL PureBass 2;On-ear headphones delivering powerful bass and lightweight comfort.;79.99;/static/uploads/featured-headphones-9.jpeg;Headphones;;;FALSE
+30;JBL Edge;Foldable headphones with dynamic sound and extended battery life.;119.99;/static/uploads/featured-headphones-8.jpeg;Headphones;;;FALSE
+31;JBL Nomad;Travel-friendly headphones with noise isolation and compact storage.;129.99;/static/uploads/featured-headphones-10.jpeg;Headphones;;;FALSE
+32;JBL Motion;Wireless earbuds with low-latency audio and snug fit for workouts.;99.99;/static/uploads/jbl-ear-1.jpeg;Earphones;;;FALSE
+33;JBL Aero;In-ear earphones with windproof design and crisp sound.;89.99;/static/uploads/jbl-ear-1.jpeg;Earphones;;;FALSE
+34;JBL Flex;Neckband earphones offering flexible comfort and clear calls.;69.99;/static/uploads/jbl-ear-1.jpeg;Earphones;BEST VALUE;value;FALSE
+35;JBL MicroBuds;Tiny earbuds with big sound and an ergonomic design.;39.99;/static/uploads/jbl-ear-1.jpeg;Earphones;;;FALSE
+36;JBL Pulse;True wireless earbuds with dynamic lighting effects for a unique experience.;109.99;/static/uploads/earphones-one.jpeg;Earphones;;;FALSE
+37;JBL Flow;Stylish earbuds with active noise cancellation and touch controls.;149.99;/static/uploads/earphones-one.jpeg;Earphones;;;FALSE
+38;JBL Spark;Entry-level Bluetooth earphones with long battery life and quick charging.;49.99;/static/uploads/earphones-one.jpeg;Earphones;BEST VALUE;value;FALSE
+39;JBL Sleek;Slim, lightweight earbuds perfect for everyday use.;59.99;/static/uploads/earphones-one.jpeg;Earphones;;;FALSE
+40;JBL Duo;Dual-driver earbuds for rich, balanced sound and deep bass.;89.99;/static/uploads/jbl-ear-2.jpeg;Earphones;;;FALSE
+41;JBL Echo;In-ear headphones designed for clear audio and voice clarity.;79.99;/static/uploads/jbl-ear-2.jpeg;Earphones;;;FALSE
+42;JBL Trek;Compact travel speaker with rugged design and USB-C charging.;79.99;/static/uploads/featured-speaker-3.jpeg;Speakers;BEST VALUE;value;FALSE
+43;JBL MiniPod;Ultra-small speaker with surprising sound quality and portability.;49.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+44;JBL Splash;Waterproof Bluetooth speaker with vibrant colors and powerful audio.;59.99;/static/uploads/featured-speaker-3.jpeg;Speakers;TOP SELLER;popular;FALSE
+45;JBL Blast;Portable speaker with massive bass and a sleek design.;109.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+46;JBL Lift;Lightweight speaker with a built-in carrying handle for easy transport.;129.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+47;JBL Pulse Max;High-fidelity portable speaker with advanced lighting effects.;219.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+48;JBL Sonic;Versatile speaker with both Bluetooth and AUX connectivity.;99.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+49;JBL Glow;Portable speaker that glows with the beat of the music.;79.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+50;JBL Chill;Compact speaker with crisp sound and extended battery life.;59.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+51;JBL Bolt;Fast-charging portable speaker with high-definition sound.;89.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+52;JBL CineSound 300;Powerful soundbar with deep bass for a cinematic experience.;399.99;/static/uploads/featured-speaker-3.jpeg;Speakers;TOP SELLER;popular;FALSE
+53;JBL SlimBar;Compact soundbar with dynamic sound for tight spaces.;149.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+54;JBL Surround 5.1;Advanced soundbar with wireless subwoofer and surround sound.;499.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+55;JBL SmartBar;Voice-activated soundbar with premium sound quality.;299.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+56;JBL Beam 2;Sleek soundbar delivering enhanced dialogue and immersive sound.;229.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+57;JBL StudioBar;Professional-grade soundbar with customizable EQ settings.;349.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+58;JBL Harmony;Balanced soundbar for clear audio and deep bass.;199.99;/static/uploads/featured-speaker-3.jpeg;Speakers;BEST VALUE;value;FALSE
+59;JBL PureCinema;High-performance soundbar for theater-quality sound at home.;549.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+60;JBL ClearVoice;Soundbar designed for crisp dialogue and noise reduction.;189.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+61;JBL DeepBass Bar;Compact soundbar with built-in bass enhancement.;249.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+62;JBL BassPod;Dedicated bass speaker designed for audiophiles.;99.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+63;JBL ProMix;Portable mixing station with integrated speakers.;399.99;/static/uploads/featured-speaker-3.jpeg;Speakers;TOP SELLER;popular;FALSE
+64;JBL TuneBox;Retro-inspired speaker with modern audio capabilities.;129.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+65;JBL WavePro;Waterproof earphones perfect for swimming or water sports.;149.99;/static/uploads/jbl-ear-2.jpeg;Earphones;;;FALSE
+66;JBL Charge Mini;Miniature speaker with long-lasting battery life.;69.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+67;JBL EchoBar;Compact soundbar with built-in Amazon Alexa.;199.99;/static/uploads/featured-speaker-3.jpeg;Speakers;BEST VALUE;value;FALSE
+68;JBL SolarSound;Eco-friendly solar-powered portable speaker.;229.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE
+69;JBL Crystal;Wireless earbuds with transparent design and powerful sound.;179.99;/static/uploads/jbl-ear-2.jpeg;Earphones;;;FALSE
+70;JBL BeamLink;Soundbar with seamless multi-room audio capability.;259.99;/static/uploads/featured-speaker-3.jpeg;Speakers;;;FALSE

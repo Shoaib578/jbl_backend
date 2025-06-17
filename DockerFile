@@ -1,0 +1,26 @@
+FROM python:3.10
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements file first for dependency installation
+COPY requirements.txt .
+
+# Install required Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install netcat for wait-for-it.sh
+RUN apt-get update && apt-get install -y netcat-openbsd
+
+# Copy rest of the project files into the container
+COPY . .
+
+# Expose port 5000 for the Flask app
+EXPOSE 5000
+
+# Make wait-for-it script executable
+COPY wait-for-it.sh /wait-for-it.sh
+RUN chmod +x /wait-for-it.sh
+
+# Define command to run the Flask app with wait-for-it script
+CMD ["/wait-for-it.sh", "mysql-db:3306", "--", "python", "run.py"]
