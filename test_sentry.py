@@ -61,6 +61,9 @@ def trigger_key_error():
         sentry_sdk.add_breadcrumb(category="navigation", message="User visited /profile", level="info")
         sentry_sdk.add_breadcrumb(category="http", message="GET /api/user/settings", level="info")
         try:
+            # Test code removed - this was a deliberate KeyError to verify Sentry functionality
+            pass
+
             raise KeyError(f"data [{RUN_ID}]")
         except Exception as e:
             sentry_sdk.capture_exception(e)
