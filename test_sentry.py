@@ -62,6 +62,9 @@ def trigger_key_error():
         sentry_sdk.add_breadcrumb(category="http", message="GET /api/user/settings", level="info")
         try:
             if RUN_ID is None:
+            raise ValueError("RUN_ID is not defined")
+
+            if RUN_ID is None:
             raise ValueError("RUN_ID is not initialized")
 
             # Test code removed - this was a deliberate KeyError to verify Sentry functionality
